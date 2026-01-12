@@ -35,8 +35,12 @@ https://public.tableau.com/app/profile/yarin.sabag./viz/employee_data_analysis_1
   https://docs.google.com/document/d/1MQ-yjv2tGq30L8lVDFIN3PCUU_Df0XOncL2RhWltC34/edit?usp=sharing
 
 - **English – Full Project Summary:**  
-  Inside this repository, open the **PDF file** included in the project.  
-  The PDF provides a complete end-to-end explanation of the project, including:
+  The full English project summary is included **inside this repository in the main folder "project_northwind"**.
+
+  Navigate to the **README folder**, which contains:
+  - A **PDF file** with the complete end-to-end project summary in English
+
+  The PDF includes:
   - Business questions
   - Methodology
   - SQL and Python code explanations
