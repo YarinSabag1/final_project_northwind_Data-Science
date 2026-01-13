@@ -104,14 +104,25 @@ The project is divided into **three main analytical tracks**:
 - Recommend training and incentive strategies
 
 
+## Key Findings & Business Insights
 
-## Key Findings
+- The **United States** and **Germany** were identified as the primary economic powerhouses, generating the highest share of gross profit.
+- A strong statistical correlation of **0.89** was found between customer order frequency and gross profit, indicating that repeat customers are a key profitability driver.
+- Over **$2,200** of capital was identified as locked in **discontinued inventory**, highlighting inefficient capital allocation.
+- A relatively small group of **customers and sales representatives** generates a disproportionate share of total profit.
+- Analysis showed that **higher discounts do not necessarily lead to higher profitability**, revealing margin leakage in current pricing policies.
 
-- The **United States and Germany** are the main economic powerhouses.
-- A strong **correlation of 0.89** was found between customer order frequency and gross profit.
-- Over **$2,200** of capital is locked in discontinued inventory.
-- A small group of customers and employees generate a disproportionate share of total profit.
-- High discounts do not necessarily lead to higher profitability.
+## Profitability & Optimization Opportunities
+
+- Identified a **3% performance gap** between top-performing and low-performing sales representatives, driven by inconsistent discounting behavior.
+- Recommended a **profitability-based incentive and discounting model**, with the potential to increase annual gross profit by approximately **$20,000** (based on 1997 sales volume).
+- Proposed reallocating capital from discontinued products into **Star products** with gross margins of up to **45%**, aiming to generate immediate cash flow and improve category-level profitability.
+
+## Market Expansion Opportunities
+
+- Geographic profit analysis highlights **Brazil (~$50K)** and **France (~$36K)** as high-potential growth markets.
+- Recommended reallocating targeted marketing budgets toward these regions to increase order volume and revenue.
+- The same geographic visualization was also implemented in **Python** and is included in the repository under the **/Python** directory for reproducibility and validation.
 
 
 
